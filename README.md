@@ -6,16 +6,18 @@ This project fetches data from my github and converts all contributions to 3D bu
 
 If you want to clone and get your github data kindly modify the parameter in `src/routes/+page.ts` to point to your account
 
-## Creating a project
+![Screenshot 2023-09-02 133405](https://github.com/sonukuldeep/Svelte-3js/assets/57728165/2b2663a4-7519-4bd7-b308-bc7dea5b730a)
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Clone and install
 
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
+# clone
+git clone git@github.com:sonukuldeep/Svelte-3js.git
 
-# create a new project in my-app
-npm create svelte@latest my-app
+# cd into the cloned directory and install
+npm i
+# or if using pnpm
+pnpm i
 ```
 
 ## Developing
