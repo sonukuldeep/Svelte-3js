@@ -9,8 +9,8 @@ If you want to clone and get your github data kindly modify the parameter in `sr
 ![Screenshot 2023-09-02 133405](https://github.com/sonukuldeep/Svelte-3js/assets/57728165/2b2663a4-7519-4bd7-b308-bc7dea5b730a)
 
 ## Docs
-[Svelte](https://svelte.dev/docs/introduction)
-[Threlte docs](https://threlte.xyz/docs/learn/getting-started/introduction)
+- [Svelte](https://svelte.dev/docs/introduction)
+- [Threlte docs](https://threlte.xyz/docs/learn/getting-started/introduction)
 
 ## Clone and install
 
