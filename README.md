@@ -4,6 +4,8 @@ Exploring threejs on svelte using threlte library
 
 This project fetches data from my github and converts all contributions to 3D buildings😎
 
+Live website is available [here](https://svelte-3js.vercel.app/)
+
 If you want to clone and get your github data kindly modify the parameter in `src/routes/+page.ts` to point to your account
 
 ## Creating a project
